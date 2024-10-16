@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_images"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:title="Images"/>
+
+
+    <item android:id="@+id/nav_video"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="Videos"/>
+
+    <item android:id="@+id/nav_Files"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24"
+        android:title="Files"/>
+</menu>

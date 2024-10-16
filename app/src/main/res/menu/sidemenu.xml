@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_baseline_notes_24"
+            android:title="MY Data" />
+
+        <item
+            android:id="@+id/nav_remainder"
+            android:icon="@drawable/ic_notifications_24"
+            android:title="Reminder" />
+
+        <item
+            android:id="@+id/nav_myacc"
+            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:title="My Account" />
+
+
+
+    </group>
+
+    <item android:title="Others">
+
+        <menu>
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_lock_24"
+                android:title="Privacy"
+                />
+
+            <item
+                android:id="@+id/nav_aboutapp"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="About App"
+
+                />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout_24"
+                android:title="Logout" />
+
+        </menu>
+
+    </item>
+
+</menu>

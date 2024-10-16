@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.datalekage">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.example.datalekage.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/dataleakagelogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/dataleakagelogo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.datalekage.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name="com.example.datalekage.DetailImage"
+            android:exported="false" />
+        <activity
+            android:name="com.example.datalekage.DetailVideo"
+            android:exported="false" />
+        <activity
+            android:name="com.example.datalekage.CreatePDFActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.datalekage.CreateVideoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.datalekage.CreateImageNoteActivity"
+            android:exported="false" />
+        <activity android:name="com.example.datalekage.DashboardActivity" />
+        <activity android:name="com.example.datalekage.LoginActivity">
+        </activity>
+        <activity android:name="com.example.datalekage.RegisterActivity" />
+        <activity android:name="com.example.datalekage.ResetPasswordActivity" />
+        <activity android:name="com.example.datalekage.activity.AlarmActivity" />
+        <activity android:name="com.example.datalekage.activity.MainActivity" />
+
+        <receiver
+            android:name="com.example.datalekage.broadcastReceiver.AlarmBroadcastReceiver"
+            android:enabled="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.example.datalekage.broadcastReceiver.AlarmService"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>

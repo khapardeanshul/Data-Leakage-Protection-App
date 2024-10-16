@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HomeFragment">
+
+   <FrameLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/fragment_container"
+       />
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical"
+          >
+
+         <ImageView
+             android:layout_width="match_parent"
+             android:layout_height="200dp"
+             android:layout_margin="5dp"
+             android:src="@drawable/biometricheader"
+             />
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="A Data Leakage protection Android app is a security tool that enables users to protect their sensitive files using biometric authentication such as fingerprints. With this app, users can ensure that only authorized individuals can access their private files."
+             android:textColor="#101010"
+             android:layout_margin="10dp"
+             android:textSize="17dp"
+             />
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="This type of app is particularly useful for individuals who store sensitive information on their devices, such as financial information or personal documents. With biometric authentication, users can ensure that their files are secure and that only they can access them."
+             android:textColor="#101010"
+             android:layout_margin="10dp"
+             android:textSize="17dp"
+             />
+
+         <Button
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/btn1"
+             android:textColor="@color/colorWhite"
+             android:text="Biometric Scan"
+             android:onClick="buttonAuthenticate"
+             android:layout_gravity="center"
+             android:background="@drawable/btn_design_myaccount"
+             android:layout_margin="25dp"
+             />
+
+         <TextView
+             android:id="@+id/textView"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Hello World!"
+             android:visibility="gone"
+             />
+
+      </LinearLayout>
+
+
+   </ScrollView>
+
+
+
+</FrameLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable-v24/ic_add.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/btn_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/btn_border.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/btn_design_myaccount.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/et_custom.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_baseline_notes_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_logout_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/ic_notifications_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/drawable/round_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/font/aclonica.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/font/acme.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_alarm.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_create_image_note.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_create_pdfactivity.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_create_video.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_detail_image.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_detail_video.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/dialog_completed_theme.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_about_app.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_about_us.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_calendar_view.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_create_task.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_files.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_images.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_notes.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_privacy.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_videos.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/item_task.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/layout/recycler_row_item_images.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/menu/detail_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh Sharma/Downloads/todo-list-master/todo-list-master/app/src/main/res/menu/sidemenu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
